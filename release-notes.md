@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Docs
+
+* 📝 Show PR Push commit identity. PR [#14](https://github.com/tiangolo/pr-push/pull/14) by [@tiangolo](https://github.com/tiangolo).
+
 ### Internal
 
 * 🎨 Align logo background color. PR [#13](https://github.com/tiangolo/pr-push/pull/13) by [@tiangolo](https://github.com/tiangolo).
