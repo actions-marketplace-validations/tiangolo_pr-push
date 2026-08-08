@@ -4,6 +4,7 @@
 
 ### Fixes
 
+* 🐛 Avoid hardcoding app version in tests. PR [#6](https://github.com/tiangolo/pr-push/pull/6) by [@tiangolo](https://github.com/tiangolo).
 * 🐛 Fix Docker Action imports. PR [#2](https://github.com/tiangolo/pr-push/pull/2) by [@tiangolo](https://github.com/tiangolo).
 
 ### Docs
