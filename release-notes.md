@@ -7,3 +7,7 @@
 ### Docs
 
 * 📝 Write README. PR [#3](https://github.com/tiangolo/pr-push/pull/3) by [@tiangolo](https://github.com/tiangolo).
+
+### Internal
+
+* 👷 Add release workflows. PR [#4](https://github.com/tiangolo/pr-push/pull/4) by [@tiangolo](https://github.com/tiangolo).
