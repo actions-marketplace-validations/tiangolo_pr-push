@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Features
+
+* ✨ Use PR Submit for release PRs. PR [#16](https://github.com/tiangolo/pr-push/pull/16) by [@tiangolo](https://github.com/tiangolo).
+
 ### Docs
 
 * 📝 Use FastAPI Cloud deployment domain. PR [#15](https://github.com/tiangolo/pr-push/pull/15) by [@tiangolo](https://github.com/tiangolo).
