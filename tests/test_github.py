@@ -98,6 +98,13 @@ def test_create_token(
     ("match_path", "field", "value", "reason"),
     [
         ("/pulls/", "state", "closed", "pull request is not open"),
+        (
+            "/pulls/",
+            "head",
+            {"repo": {"id": 1}},
+            "pull request is from a fork",
+        ),
+        ("/permission", "user", {"id": 1}, "actor ID does not match"),
         ("/permission", "permission", "read", "actor does not have write permission"),
     ],
 )

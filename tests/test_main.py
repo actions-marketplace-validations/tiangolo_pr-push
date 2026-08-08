@@ -5,7 +5,7 @@ import pytest
 from fastapi.testclient import TestClient
 
 from pr_push.config import Settings, get_settings
-from pr_push.github import GitHubAPIError, WorkflowNotAllowedError
+from pr_push.github import GITHUB_API_URL, GitHubAPIError, WorkflowNotAllowedError
 from pr_push.main import app, get_claims, get_github_client
 from pr_push.models import OIDCClaims
 
@@ -93,5 +93,5 @@ def test_token_hides_service_errors(
 def test_github_client_uses_github_api() -> None:
     clients = get_github_client()
     client = next(clients)
-    assert client.base_url == httpx.URL("https://api.github.com/")
+    assert client.base_url == httpx.URL(GITHUB_API_URL)
     assert next(clients, None) is None
