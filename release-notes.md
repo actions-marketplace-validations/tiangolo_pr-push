@@ -4,6 +4,7 @@
 
 ### Docs
 
+* 📝 Use FastAPI Cloud deployment domain. PR [#15](https://github.com/tiangolo/pr-push/pull/15) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Show PR Push commit identity. PR [#14](https://github.com/tiangolo/pr-push/pull/14) by [@tiangolo](https://github.com/tiangolo).
 
 ### Internal
