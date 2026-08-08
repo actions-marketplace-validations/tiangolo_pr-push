@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Internal
+
+* 🎨 Add PR Push logo. PR [#8](https://github.com/tiangolo/pr-push/pull/8) by [@tiangolo](https://github.com/tiangolo).
+
 ## 0.0.1 (2026-08-08)
 
 ### Fixes
