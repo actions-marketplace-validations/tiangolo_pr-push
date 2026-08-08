@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Internal
+
+* 🎨 Align logo background color. PR [#13](https://github.com/tiangolo/pr-push/pull/13) by [@tiangolo](https://github.com/tiangolo).
+
 ## 0.0.3 (2026-08-08)
 
 ### Fixes
