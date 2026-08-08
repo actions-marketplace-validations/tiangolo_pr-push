@@ -14,10 +14,12 @@ dependencies = [
 [dependency-groups]
 dev = [
     "httpx2>=2.9.1",
+    "prek>=0.4.12",
     "pytest>=9.1.1",
     "pytest-cov>=7.1.0",
     "ruff>=0.16.0",
     "ty>=0.0.65",
+    "zizmor>=1.29.0",
 ]
 
 [tool.fastapi]
