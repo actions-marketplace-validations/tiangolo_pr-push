@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Fixes
+
+* 🐛 Support private repository pull requests. PR [#11](https://github.com/tiangolo/pr-push/pull/11) by [@tiangolo](https://github.com/tiangolo).
+
 ## 0.0.2 (2026-08-08)
 
 * ✨ Allow formatting GitHub Actions workflows. PR [#9](https://github.com/tiangolo/pr-push/pull/9) by [@tiangolo](https://github.com/tiangolo).
