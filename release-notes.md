@@ -4,6 +4,7 @@
 
 ### Features
 
+* ✨ Support workflow dispatch on PR branches. PR [#19](https://github.com/tiangolo/pr-push/pull/19) by [@tiangolo](https://github.com/tiangolo).
 * ✨ Use PR Submit for release PRs. PR [#16](https://github.com/tiangolo/pr-push/pull/16) by [@tiangolo](https://github.com/tiangolo).
 
 ### Docs
